@@ -39,7 +39,21 @@ group by Customertype;
 select Gender, sum(Total) as Total_sales from orders
 group by Gender;
 
+-- e) Total_sales by Branch
+select Branch, sum(Total) as Total_sales from orders
+group by Branch;
+
+-- Top five productline by sales
+select Productline, sum(Total) as Total_Sales from orders
+group by Productline
+order by Total_Sales desc
+limit 5;
+
+-- Average Unit Price by Productline
+select Productline, Round(avg(Unitprice),2) as Avg_Unitprice from orders
+group by Productline
+order by Avg_Unitprice DESC;
 
 
 
-
+select*from orders;
