@@ -6,7 +6,7 @@ This project contains SQL queries and insights based on a supermarket sales data
 
 - Total Sales by City, Branch, Product Line, Gender, and Customer Type
 - Top 5 Product Lines by Sales
-- Average Unit Price and Spending Patterns
+- Average Unit Price by Productline
 - Hourly Sales Trends
 
 ## 📁 Structure
