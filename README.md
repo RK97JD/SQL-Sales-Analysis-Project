@@ -14,7 +14,6 @@ This project contains SQL queries and insights based on a supermarket sales data
 - `scripts/`: Contains `.sql` scripts with all queries.
 - `results/`: Query results exported as `.csv`.
 - `dataset/`: Raw dataset in CSV format.
-- `visuals/`: Optional charts created from the analysis.
 
 ## 📦 Tools Used
 
