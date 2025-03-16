@@ -1,4 +1,4 @@
-**SQL Sales Analysis Project**
+# SQL Sales Analysis Project
 
 This project contains SQL queries and insights based on a supermarket sales dataset. The dataset was sourced from Kaggle and analyzed using MySQL.
 
